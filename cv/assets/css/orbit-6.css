@@ -111,7 +111,7 @@ p {
 }
 
 .sidebar-wrapper .container-block {
-  padding: 20px 20px 0px;
+  padding: 20px 20px 10px;
 }
 
 .sidebar-wrapper .container-block-title {
@@ -319,7 +319,7 @@ p {
     width: inherit;
   }
   .main-wrapper {
-    padding: 20px 20px 0px;
+    padding: 20px 20px 10px;
   }
   .main-wrapper .time {
     position: static;
