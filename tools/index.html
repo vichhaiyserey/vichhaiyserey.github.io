@@ -60,6 +60,16 @@
           name/domain like http://firstproject.dev from local machine. I recommend to use Xampp, it’s opensouce and easy
           to
           configure :)</p>
+        
+        <h4>Quick tips to move laravel from local machine to server</h4>
+        <p>*Important things: Export DB, remove 'node_modules' folder, might use rsync or scp to copy project to server</p>
+        <p>While copy project to server like to '/var/www/laravel', you need to configure your apache2 or httpd server to point to this folder so that we can access via that IP address or name. </p>
+        <p>Then to make it work properly, do this:</p>
+        <ul>
+          <li>Run: 'npm install --no-dev'</li>
+          <li>Delete 'public folder' and relink: 'php artisan storage:link' </li>
+          <li>Permission and ownership: 'udo chown -R :www-data laravel; sudo chmod -R gu+w storage; sudo chmod -R 775 bootstrap/cache; php artisan cache:clear'</li>
+        </ul>
 
         <h4>Quick and easy use AdminLTE with Laravel</h4>
         <p>Follow this easy step:</p>
@@ -76,6 +86,7 @@
 
         <p>and now we can access project in the browser at <a href="http://localhost:8000"
             target="_blank">http://localhost:8000</a></p>
+        <p>You can also use 'php artisan --host YOUR_IP_Addr --port SOME_PORT' to host your server for local network or else.</p>
       </div>
     </div>
   </div>
