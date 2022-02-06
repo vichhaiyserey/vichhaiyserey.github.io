@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Vichhaiy's Page
 
-You can use the [editor on GitHub](https://github.com/vichhaiyserey/vichhaiyserey.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit my repo at [editor on GitHub](https://github.com/vichhaiyserey).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education & Experiences
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I get started as IT officer in 2012 all the ways to IT trainer, Master degree student, IT support officer and Lab assistance, and now I'm working as IT Cybersecurity Officer specialized in vulnerability management and DevSec(Ops).
 
 ```markdown
-Syntax highlighted code block
+Through education, we can change the world ~ Nelson Mandela
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
+- Vulnerability Assessment
+- Source Code Assessment
+- Linux Administration
+- Windows Server
+- Cisco Routing & Switching
+- Basic Hacking
+- ...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vichhaiyserey/vichhaiyserey.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can checkout my learning journey at [vichhaiy wordpress](http://vichhaiy.wordpress.com/)
